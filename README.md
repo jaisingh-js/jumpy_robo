@@ -1,6 +1,6 @@
 # jumpy_robo
 
-A simple platformer game made using Unity Engine.
+Android platformer game made using Unity Engine.
 
 # Screenshots
 
